@@ -3,7 +3,6 @@ import java.time.LocalDate;
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
         System.out.println("Eu sou o dev Daniel!");
     
         Data dataOriginal = new Data(LocalDate.of(2024, 9, 7));
